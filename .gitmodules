@@ -1,3 +1,3 @@
-[submodule "Art and Info"]
-	path = files
-	url = https://github.com/HowlingWolfHWC/PS2-Art-and-Info-for-OPL-and-XEBPlus
+[submodule "files/ArtInfo"]
+    path = files/ArtInfo
+    url = https://github.com/HowlingWolfHWC/PS2-Art-and-Info-for-OPL-and-XEBPlus
