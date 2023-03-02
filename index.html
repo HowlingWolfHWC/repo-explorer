@@ -39,8 +39,8 @@
 
     <script>
       $('#demo_tree').folderTree({
-        root: 'files',
-        contents_url: 'https://howlingwolfhwc.github.io/art_and_info/',
+        root: 'Root Folder',
+        contents_url: 'https://howlingwolfhwc.github.io/repo-explorer/files/ArtInfo/',
         file_click: function(event, data) {
           console.log('File path: ', data.path);
           $('#demo_pane').html("You've selected:<p>"+data.path+'</p>');
